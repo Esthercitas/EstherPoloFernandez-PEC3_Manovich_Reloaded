@@ -25,8 +25,11 @@ Y ahora sí, una vez puesta a la hibridación en su contexto podemos pasar a cen
 
 ### Caso 1: Wii Fit
 
-![Logotipo videojuego Wii Fit](ELSALogotipo.jpg)
+![Logotipo videojuego Wii Fit](WiiFitLogotipo.jpg)
 >Logotipo videojuego Wii Fit.
+
+[![Alt text](https://img.youtube.com/vi/Awbg2YZW7EE/0.jpg)](https://www.youtube.com/watch?=Awbg2YZW7EE)
+>Trailer de Wii Fit para Wii.
 ___
 ### Caso 2: ELSA Speak
 
