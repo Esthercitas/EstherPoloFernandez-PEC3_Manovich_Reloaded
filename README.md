@@ -79,7 +79,9 @@ En el caso de ELSA Speak nos encontramos frente a una app que es capaz de distin
 
 * MANOVICH, L. (2013). “El software toma el mando”. UOCPress
 * FERRAN, A. “Técnicas de software, o cómo entender el software” [en línea]. 2014 [consulta: 18 de diciembre 2022] en: http://multimedia.uoc.edu/blogs/fem/es/tecnicas-de-software-o-como-entender-el-software/
-
+* Imagen logotipo Wii Fit https://www.nintendo.es/Juegos/Wii/Wii-Fit-283894.html Propiedad de Nintendo empleado aquí con fines educativos.
+* Imagen logotipo ELSA Speak https://www.langoly.com/elsa-speak-review/ Propiedad de ELSA Speak empleado aquí con fines educativos.
+* 
 
 
 ----
