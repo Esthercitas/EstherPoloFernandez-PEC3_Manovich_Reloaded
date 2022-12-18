@@ -45,10 +45,7 @@ Este reconocimiento de voz a tiempo real permite evaluar y dar información inme
 
 Puedes practicar 22 habilidades de pronunciación con diálogos cortos y divertidos gracias a sus más de 1400 lecciones breves y motivadoras incrementando su nivel de dificultad. Además, trabajarás tus habilidades tanto orales como de escucha y podrás realizar evaluaciones para tener un registro de tus progresos. También incluye un diccionario y un banco de palabras.
 
-
-
-
-ELSA Speak dispone de varios paquetes de pago y una versión gratuita de prueba. Lamentablemente sólo está disponible para acento inglés americano neutro pero a pesar de eso, ELSA Speak es una aplicación diseñada para ayudarte a mejorar la pronunciación del inglés de una forma ágil y divertida.
+ELSA Speak dispone de varios paquetes de pago y una versión gratuita de prueba. Lamentablemente sólo está disponible para acento inglés americano neutro, pero a pesar de eso, ELSA Speak es una aplicación diseñada para ayudarte a mejorar la pronunciación del inglés de una forma ágil y divertida.
 
 
 
