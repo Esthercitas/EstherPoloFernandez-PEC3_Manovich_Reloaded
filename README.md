@@ -83,7 +83,8 @@ En el caso de ELSA Speak nos encontramos frente a una app que es capaz de distin
 * Imagen logotipo ELSA Speak https://www.langoly.com/elsa-speak-review/ Propiedad de ELSA Speak empleado aquí con fines educativos.
 * *ELSA Speak* [en línea] [consulta: 18 de diciembre de 2022]. Disponible en: https://elsaspeak.com/es/
 * *Reseña de ELSA Speak [en línea] [consulta: 18 de diciembre de 2022]. Disponible en: https://www.alllanguageresources.com/resena-de-elsa-speak/
-* Anubis78. DOCUMENTALES - EGIPTO HOWARD CARTER TESOROS DE EGIPTO ESPAÑOL HD. Canal de YouTube.
+* WII FIT (WII) TRAILER. *Nintend Life*. Canal de YouTube. https://www.youtube.com/watch?v=Awbg2YZW7EE
+* COMPLETE GUIDE: HOW TO USE ELSA SPEAK. *ELSA Speka*. Canal de YouTube. https://www.youtube.com/watch?v=5SDqVjYncXY
 
 
 
