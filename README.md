@@ -50,6 +50,13 @@ Haciendo click en la siguiente imagen podrás ver una pequeña guía de uso de E
 [![Alt text](https://img.youtube.com/vi/5SDqVjYncXY/0.jpg)](https://www.youtube.com/watch?=5SDqVjYncXY)
 >Guía de uso de ELSA Speak
 
+Con lo expuesto hasta ahora ya debería quedar más o menos claro la razón por la cual he elegido esta aplicación para ejemplificar el tema de la hibridación. Y es que tal y como he mencionado en párrafos anteriores, ELSA Speak cuenta con tecnología de última generación basada en una inteligencia artificial. 
+
+El término inteligencia artificial o IA fue acuñado en 1956 por el informático John McCarthy y se emplea para definir una tecnología (sistemas informáticos normalmente) que emula procesos de inteligencia humana incluyendo el aprendizaje, el razonamiento y la autocorrección. 
+
+En el caso de ELSA Speak nos encontramos frente a una app que es capaz de distinguir con bastante precisión los sonidos que emitimos al hablar y asociarlos con los diferentes sonidos y fonemas de la lengua inglesa que tiene guardados en su base de datos y consigue evaluar los sonidos como buenos, regulares o malos. Además, es capaz de interpretar los resultados que vamos obteniendo en los ejercicios y tests y de esta forma reorganizar las lecciones para poder hacer hincapié en nuestros puntos más débiles. Este fenómeno de adaptación no lo encontramos en otras aplicaciones de aprendizaje de idiomas donde no queda más remedio que seguir el método definido por igual para todos los usuarios. En ese sentido, ELSA será lo más parecido a tener un profesor particular de carne y hueso.
+
+
 ## Referencias y Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
