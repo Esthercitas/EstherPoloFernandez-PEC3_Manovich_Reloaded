@@ -63,10 +63,9 @@ Puedes practicar 22 habilidades de pronunciación con diálogos cortos y diverti
 
 ELSA Speak dispone de varios paquetes de pago y una versión gratuita de prueba. Lamentablemente sólo está disponible para acento inglés americano neutro, pero a pesar de eso, ELSA Speak es una aplicación diseñada para ayudarte a mejorar la pronunciación del inglés de una forma ágil y divertida.
 
-Haciendo click en la siguiente imagen podrás ver una pequeña guía de uso de ELSA Speak.
+Haciendo click en el siguiente enlace podrás ver una pequeña guía de uso de ELSA Speak.
 
-[![Alt text](https://img.youtube.com/vi/5SDqVjYncXY/0.jpg)](https://www.youtube.com/watch?=5SDqVjYncXY)
->Guía de uso de ELSA Speak
+https://www.youtube.com/watch?v=5SDqVjYncXY
 
 Con lo expuesto hasta ahora ya debería quedar más o menos claro la razón por la cual he elegido esta aplicación para ejemplificar el tema de la hibridación. Y es que tal y como he mencionado en párrafos anteriores, ELSA Speak cuenta con tecnología de última generación basada en una inteligencia artificial. 
 
