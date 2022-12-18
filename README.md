@@ -25,8 +25,8 @@ Y ahora sí, una vez puesta a la hibridación en su contexto podemos pasar a cen
 
 ### Caso 1: Wii Fit
 
-![Logotipo videojuego Wii Fit]()
->Logotipo videojuego Wii Fit
+![Logotipo videojuego Wii Fit](ELSALogotipo.jpg)
+>Logotipo videojuego Wii Fit.
 ___
 ### Caso 2: ELSA Speak
 
@@ -35,7 +35,7 @@ Cuando nos planteamos mejorar en un idioma, y más concretamente en el caso del 
 Por fortuna, no todo está perdido y siempre podremos echar mano de la profesora Elsa. No, no me estoy refiriendo a la protagonista de la película de Disney ni tampoco a ninguna señora nativa angloparlante. Elsa, o mejor escrito ELSA, es el acrónimo de English Language Speech Assistant, un asistente que nos ayudará a perfeccionar nuestra pronunciación del idioma inglés en la aplicación para dispositivos móviles **ELSA Speak**. 
 
 ![Logotipo aplicación ELSA Speak](ELSALogotipo.jpg)
->Logotipo aplicación ELSA Speak
+>Logotipo aplicación ELSA Speak.
 
 La ciencia que se esconde detrás de esta aplicación no es otra que una **inteligencia artificial** desarrollada mediante la utilización de datos sonoros de hablantes de inglés con diferentes acentos. Gracias a esta tecnología, ELSA es capaz de reconocer la pronunciación de hablantes cuya lengua materna no es el inglés al contrario que ocurre con muchas tecnologías de reconocimiento de voz creadas previamente. 
 
