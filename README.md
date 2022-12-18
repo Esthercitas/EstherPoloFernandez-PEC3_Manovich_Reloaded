@@ -64,4 +64,4 @@ En el caso de ELSA Speak nos encontramos frente a una app que es capaz de distin
 
 ----
 
-Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 
+Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. 
