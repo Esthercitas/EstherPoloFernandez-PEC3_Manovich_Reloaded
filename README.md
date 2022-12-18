@@ -1,8 +1,6 @@
 # PEC3: Visionando el futuro con las gafas de Manovich 
 
-Autor: Esther Polo Fernández
-
-Fecha: 17 de diciembre de 2022 
+Autor: Esther Polo Fernández | Fecha: 17 de diciembre de 2022 
 
 
 ## INTRODUCCIÓN
