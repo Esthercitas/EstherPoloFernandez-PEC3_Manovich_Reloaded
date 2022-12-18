@@ -77,7 +77,9 @@ En el caso de ELSA Speak nos encontramos frente a una app que es capaz de distin
 
 ## Referencias y Bibliografía
 
-* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+* MANOVICH, L. (2013). “El software toma el mando”. UOCPress
+* FERRAN, A. “Técnicas de software, o cómo entender el software” [en línea]. 2014 [consulta: 18 de diciembre 2022] en: http://multimedia.uoc.edu/blogs/fem/es/tecnicas-de-software-o-como-entender-el-software/
+
 
 
 ----
