@@ -30,12 +30,12 @@ Y ahora sí, una vez puesta a la hibridación en su contexto podemos pasar a cen
 
 ### Caso 2: ELSA Speak
 
-![Logotipo aplicación ELSA Speak](ELSA-Logo copia.jpg)
->Logotipo aplicación ELSA Speak
-
 Cuando nos planteamos mejorar en un idioma, y más concretamente en el caso del inglés, generalmente se nos vienen a la cabeza métodos con los que podamos aprender palabras nuevas y de este modo conseguir ampliar nuestro limitado vocabulario o profundizar más en la gramática y así lograr enriquecer nuestro discurso con expresiones más elaboradas. Sin embargo, un exhaustivo conocimiento de estas destrezas no será suficiente si a la hora de expresarnos en voz alta, nuestra pronunciación no hace justicia a todo ese saber y somos incapaces de conseguir que nuestro interlocutor entienda de qué estamos hablando. 
 
 Por fortuna, no todo está perdido y siempre podremos echar mano de la profesora Elsa. No, no me estoy refiriendo a la protagonista de la película de Disney ni tampoco a ninguna señora nativa angloparlante. Elsa, o mejor escrito ELSA, es el acrónimo de English Language Speech Assistant, un asistente que nos ayudará a perfeccionar nuestra pronunciación del idioma inglés en la aplicación para dispositivos móviles ELSA Speak. 
+
+![Logotipo aplicación ELSA Speak](ELSALogotipo.jpg)
+>Logotipo aplicación ELSA Speak
 
 La ciencia que se esconde detrás de esta aplicación no es otra que una inteligencia artificial desarrollada mediante la utilización de datos sonoros de hablantes de inglés con diferentes acentos. Gracias a esta tecnología, ELSA es capaz de reconocer la pronunciación de hablantes cuya lengua materna no es el inglés al contrario que ocurre con muchas tecnologías de reconocimiento de voz creadas previamente. 
 
@@ -45,7 +45,7 @@ Puedes practicar 22 habilidades de pronunciación con diálogos cortos y diverti
 
 ELSA Speak dispone de varios paquetes de pago y una versión gratuita de prueba. Lamentablemente sólo está disponible para acento inglés americano neutro, pero a pesar de eso, ELSA Speak es una aplicación diseñada para ayudarte a mejorar la pronunciación del inglés de una forma ágil y divertida.
 
-
+[![Alt text](https://img.youtube.com/vi/5SDqVjYncXY/0.jpg)](https://www.youtube.com/watch?=5SDqVjYncXY)
 
 ## Referencias y Bibliografía
 
