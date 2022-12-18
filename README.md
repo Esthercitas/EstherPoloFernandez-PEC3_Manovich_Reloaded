@@ -29,7 +29,7 @@ Y ahora sí, una vez puesta a la hibridación en su contexto podemos pasar a cen
 
 ### Caso 2: ELSA Speak
 
-![Logotipo aplicación ELSA Speak](https://drive.google.com/drive/u/1/my-drive)
+![Logotipo aplicación ELSA Speak](https://drive.google.com/file/d/1JtMsZWB-LcN5yUZ6UMKzw9N_yumpAPXD/view?usp=sharing)
 >Logotipo aplicación ELSA Speak
 
 Cuando nos planteamos mejorar en un idioma, y más concretamente en el caso del inglés, generalmente se nos vienen a la cabeza métodos con los que podamos aprender palabras nuevas y de este modo conseguir ampliar nuestro limitado vocabulario o profundizar más en la gramática y así lograr enriquecer nuestro discurso con expresiones más elaboradas. Sin embargo, un exhaustivo conocimiento de estas destrezas no será suficiente si a la hora de expresarnos en voz alta, nuestra pronunciación no hace justicia a todo ese saber y somos incapaces de conseguir que nuestro interlocutor entienda de qué estamos hablando. 
