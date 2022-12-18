@@ -39,11 +39,13 @@ Por fortuna, no todo está perdido y siempre podremos echar mano de la profesora
 
 La ciencia que se esconde detrás de esta aplicación no es otra que una **inteligencia artificial** desarrollada mediante la utilización de datos sonoros de hablantes de inglés con diferentes acentos. Gracias a esta tecnología, ELSA es capaz de reconocer la pronunciación de hablantes cuya lengua materna no es el inglés al contrario que ocurre con muchas tecnologías de reconocimiento de voz creadas previamente. 
 
-Este reconocimiento de voz a tiempo real permite evaluar y dar información inmediata y detallada al alumno acerca de su pronunciación y fluidez identificando así fácilmente dónde se encuentran los errores en su pronunciación. Pero la cosa no queda ahí, puesto que esta inteligencia artificial autoevolutiva es capaz de analizar el rendimiento y comportamiento del alumno y poder personalizar su plan de estudios diario. Esto significa que las lecciones se reorganizarán en función de los avances que cada uno vaya logrando.
+Este reconocimiento de voz a tiempo real permite evaluar y dar información inmediata y detallada al alumno acerca de su pronunciación y fluidez identificando así fácilmente dónde se encuentran los errores en su pronunciación. Pero la cosa no queda ahí, puesto que esta inteligencia artificial autoevolutiva **es capaz de analizar el rendimiento y comportamiento del alumno y poder personalizar su plan de estudios diario**. Esto significa que las lecciones se reorganizarán en función de los avances que cada uno vaya logrando.
 
-Puedes practicar 22 habilidades de pronunciación con diálogos cortos y divertidos gracias a sus más de 1400 lecciones breves y motivadoras incrementando su nivel de dificultad. Además, trabajarás tus habilidades tanto orales como de escucha y podrás realizar evaluaciones para tener un registro de tus progresos. También incluye un diccionario y un banco de palabras.
+Puedes practicar 22 habilidades de pronunciación con diálogos cortos y divertidos gracias a sus **más de 1400 lecciones** breves y motivadoras incrementando su nivel de dificultad. Además, trabajarás tus habilidades tanto orales como de escucha y podrás realizar evaluaciones para tener un registro de tus progresos. También incluye un **diccionario** y un **banco de palabras**.
 
 ELSA Speak dispone de varios paquetes de pago y una versión gratuita de prueba. Lamentablemente sólo está disponible para acento inglés americano neutro, pero a pesar de eso, ELSA Speak es una aplicación diseñada para ayudarte a mejorar la pronunciación del inglés de una forma ágil y divertida.
+
+Haciendo click en la siguiente imagen podrás ver una pequeña guía de uso de ELSA Speak.
 
 [![Alt text](https://img.youtube.com/vi/5SDqVjYncXY/0.jpg)](https://www.youtube.com/watch?=5SDqVjYncXY)
 >Guía de uso de ELSA Speak
