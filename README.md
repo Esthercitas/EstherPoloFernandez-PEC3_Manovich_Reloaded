@@ -40,8 +40,12 @@ Y ahora sí, una vez puesta a la hibridación en su contexto podemos pasar a cen
 
 ### Caso 1: Wii Fit
 
+Corría el año 2007 cuando la empresa japonesa Nintendo, lanzó al mercado japonés (en el resto del mundo se puso a la venta a lo largo de 2008) el videojuego Wii Fit para la videoconsola Wii.
+
+
 ![Logotipo videojuego Wii Fit](WiiFitLogotipo.jpg)
 >Logotipo videojuego Wii Fit.
+Haz click en el siguiente enlace para ver el trailer del videojuego de Wii Fit.
 
 https://www.youtube.com/watch?v=Awbg2YZW7EE
 ___
@@ -69,7 +73,7 @@ Haciendo click en el siguiente enlace podrás ver una pequeña guía de uso de E
 
 https://www.youtube.com/watch?v=5SDqVjYncXY
 
-Con lo expuesto hasta ahora ya debería quedar más o menos claro la razón por la cual he elegido esta aplicación para ejemplificar el tema de la hibridación. Y es que tal y como he mencionado en párrafos anteriores, ELSA Speak cuenta con tecnología de última generación basada en una inteligencia artificial. 
+Después de ésta breve explicación sobre lo que ELSA Speak es capaz de hacer, ya debe de ir quedando más o menos encaminado el por qué la he elegido como mi segundo caso de estudio para ejemplificar el tema de la hibridación de los medios. Y es que tal y como he mencionado en párrafos anteriores, ELSA Speak cuenta con tecnología de última generación basada en una inteligencia artificial. 
 
 El término inteligencia artificial o IA fue acuñado en 1956 por el informático John McCarthy y se emplea para definir una tecnología (sistemas informáticos normalmente) que emula procesos de inteligencia humana incluyendo el aprendizaje, el razonamiento y la autocorrección. 
 
