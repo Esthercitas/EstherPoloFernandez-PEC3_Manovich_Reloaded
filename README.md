@@ -42,6 +42,9 @@ Y ahora sí, una vez puesta a la hibridación en su contexto podemos pasar a cen
 
 Corría el año 2007 cuando la empresa japonesa Nintendo, lanzaba al mercado japonés (en el resto del mundo se puso a la venta a lo largo de 2008) el videojuego Wii Fit para la videoconsola Wii. Un juego revolucionario en su época que nos invitaba de una manera llamativa y divertida, a abandonar la comodidad de nuestro sofá y poner en movimiento nuestro cuerpo para entrenarlo. 
 
+![Logotipo videojuego Wii Fit](WiiFitLogotipo.jpg)
+>Logotipo videojuego Wii Fit.
+
 Con Wii Fit dejamos a un lado la forma clásica de jugar con los videojuegos en la que el usuario mediante un mando de control, con botones y joysticks, dirige los movimientos de un personaje. El videojuego se vendió conjuntamente con la Wii Balance Board, un periférico semejante a una báscula o mejor dicho a una tabla para steps que sería un requisito imprescindible para la mayoría de minijuegos que se incluían. 
 
 En algunos casos, era necesario combinar la Wii Balance Board con el Wii Remote (el mando de control de Wii que funcionaba sin cables y por sensor de movimiento gracias a un sensor que se colocaba sobre nuestra televisión) como en el caso del minijuego de guerra de bolas de nieve. En otros casos, solamente necesitábamos la Wii Balance Board para usarla a modo de tabla de snowboard y deslizarnos por la nieve digital, y en otros casos, como en el minijuego de running, con el Wii Remote en el bolsillo nos era suficiente.
@@ -52,8 +55,7 @@ Los ejercicios o minijuegos se hallaban clasificados en cuatro categorías: aer�
 Otro de los ingredientes de su éxito y que fueron los causantes de que mucha gente que no había sido anteriormente consumidores de videoconsolas y videojuegos se hicieran con una Wii y con el Wii Fit, es que permite entrenar en casa con familia y amigos acercando generaciones. 
 
 
-![Logotipo videojuego Wii Fit](WiiFitLogotipo.jpg)
->Logotipo videojuego Wii Fit.
+
 
 Haz click en el siguiente enlace para ver el trailer del videojuego de Wii Fit.
 
