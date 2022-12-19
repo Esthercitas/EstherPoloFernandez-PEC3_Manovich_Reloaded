@@ -40,24 +40,24 @@ Y ahora sí, una vez puesta a la hibridación en su contexto podemos pasar a cen
 
 ### Caso 1: Wii Fit
 
-Corría el año 2007 cuando la empresa japonesa Nintendo, lanzaba al mercado japonés (en el resto del mundo se puso a la venta a lo largo de 2008) el videojuego Wii Fit para la videoconsola Wii. Un juego revolucionario en su época que nos invitaba de una manera llamativa y divertida, a abandonar la comodidad de nuestro sofá y poner en movimiento nuestro cuerpo para entrenarlo. 
+Corría el año 2007 cuando la empresa japonesa Nintendo, lanzaba al mercado japonés (en el resto del mundo se puso a la venta a lo largo de 2008) el videojuego **Wii Fit** para la videoconsola Wii. Un juego revolucionario en su época que nos invitaba de una manera llamativa y divertida, a abandonar la comodidad de nuestro sofá y poner en movimiento nuestro cuerpo para entrenarlo. 
 
 ![Logotipo videojuego Wii Fit](WiiFitLogotipo.jpg)
 >Logotipo videojuego Wii Fit.
 
-Con Wii Fit dejamos a un lado la forma clásica de jugar con los videojuegos en la que el usuario mediante un mando de control, con botones y joysticks, dirige los movimientos de un personaje. El videojuego se vendió conjuntamente con la Wii Balance Board, un periférico semejante a una báscula o mejor dicho a una tabla para steps que sería un requisito imprescindible para la mayoría de minijuegos que se incluían. 
+Con Wii Fit dejamos a un lado la forma clásica de jugar con los videojuegos en la que el usuario mediante un mando de control, con botones y joysticks, dirige los movimientos de un personaje. El videojuego se vendió conjuntamente con la **Wii Balance Board**, un periférico semejante a una báscula o mejor dicho a una tabla para steps que sería un requisito imprescindible para la mayoría de minijuegos que se incluían. 
 
 ![Wii Balance Board](wiibalanceboard.jpg)
 >Wii Balance Board.
 
 En algunos casos, era necesario combinar la Wii Balance Board con el Wii Remote (el mando de control de Wii que funcionaba sin cables y por sensor de movimiento gracias a un sensor que se colocaba sobre nuestra televisión) como en el caso del minijuego de guerra de bolas de nieve. En otros casos, solamente necesitábamos la Wii Balance Board para usarla a modo de tabla de snowboard y deslizarnos por la nieve digital, y en otros casos, como en el minijuego de running, con el Wii Remote en el bolsillo nos era suficiente.
 
-Sin embargo, si por algo destacó el videojuego Wii Fit fue porque aunaba la parte lúdica de un videojuego con la salud ya que Wii Fit contaba con un entrenador (o entrenadora en función de tus preferencias) para ayudarnos a ponernos en forma. Al comenzar la partida por primera vez, la consola nos hará una serie de preguntas tales como la edad o la estatura, antes de realizarnos un test con el cuál determinará por una parte la edad que considera que tiene nuestro cuerpo, en función de nuestras habilidades y reflejos, y por otra nos dirá nuestro peso e índice de masa corporal. Con esta información obtenida, ya estamos preparados para empezar a nuestra sesión de deporte diaria.
+Sin embargo, si por algo destacó el videojuego Wii Fit fue porque **aunaba la parte lúdica de un videojuego con la salud** ya que Wii Fit contaba con un entrenador (o entrenadora en función de tus preferencias) para ayudarnos a ponernos en forma. Al comenzar la partida por primera vez, la consola nos hará una serie de preguntas tales como la edad o la estatura, antes de realizarnos un test con el cuál determinará por una parte la edad que considera que tiene nuestro cuerpo, en función de nuestras habilidades y reflejos, y por otra nos dirá nuestro peso e índice de masa corporal. Con esta información obtenida, ya estamos preparados para empezar a nuestra sesión de deporte diaria.
 
 ![Menús Wii Fit](pantallas_wii_fit.jpg)
 >Menús Wii Fit.
 
-Los ejercicios o minijuegos se hallaban clasificados en cuatro categorías: aeróbic, equilibrio, yoga y tonificación. En nuestra mano estaba seguir uno de los programas de entrenamiento predeterminados, configurar el nuestro propio o jugar/entrenar aleatoriamente.
+Los ejercicios o minijuegos se hallaban clasificados en cuatro categorías: **aeróbic, equilibrio, yoga y tonificación**. En nuestra mano estaba seguir uno de los programas de entrenamiento predeterminados, configurar el nuestro propio o jugar/entrenar aleatoriamente.
 
 Otro de los ingredientes de su éxito y que fueron los causantes de que mucha gente que no había sido anteriormente consumidores de videoconsolas y videojuegos se hicieran con una Wii y con el juego Wii Fit, es que permite entrenar en casa con familia y amigos acercando generaciones. 
 
@@ -72,7 +72,7 @@ https://www.youtube.com/watch?v=Awbg2YZW7EE
 En el año 2009 salió a la venta Wii Fit Plus, una versión enriquecida de Wii Fit que contaba entre sus mejoras con la incorporación de un contador de calorías quemadas durante los ejercicios y la creación de regímenes alimenticios, así como la inclusión de nuevos minijuegos y ejercicios para las cuatro categorías. 
 Posteriormente en 2013 se lanzó una nueva versión esta vez para la videoconsola sucesora de Wii, la Wii U. En esta ocasión podíamos combinar la ya existente Wii Balance Board con el nuevo mando con pantalla integrada de Wii U, el GamePad. Esto nos brindaba la posibilidad de seguir entrenando sin necesidad de utilizar la televisión, siempre y cuando estuviéramos en el rango de frecuencia de la consola, ya que si nos íbamos a demasiada distancia, mando y consola se desvinculaban. 
 
-Además de una nueva interfaz más armoniosa y atractiva y nuevos minijuegos y ejercicios, en Wii U apareció por primera vez el Wii Fit Meter, un podómetro de bolsillo con el qué poder seguir registrando calorías quemadas en nuestras tareas diarias o en otros entrenamientos ajenos al videojuego. Después, solamente tendríamos que pasar los datos a nuestra Wii U mediante infrarrojos (parte delantera del Wii U GamePad) y nuestras calorías se agregarían a las del videojuego. 
+Además de una nueva interfaz más armoniosa y atractiva y nuevos minijuegos y ejercicios, en Wii U apareció por primera vez el **Wii Fit Meter**, un podómetro de bolsillo con el qué **poder seguir registrando calorías quemadas en nuestras tareas diarias o en otros entrenamientos** ajenos al videojuego. Después, solamente tendríamos que pasar los datos a nuestra Wii U mediante infrarrojos (parte delantera del Wii U GamePad) y nuestras calorías se agregarían a las del videojuego. 
 
 Puedes ver un avance del videojuego Wii Fit U en el siguiente enlace.
 
@@ -112,7 +112,7 @@ Después de ésta breve explicación sobre lo que ELSA Speak es capaz de hacer, 
 
 El término inteligencia artificial o IA fue acuñado en 1956 por el informático John McCarthy y se emplea para definir una tecnología (sistemas informáticos normalmente) que emula procesos de inteligencia humana incluyendo el aprendizaje, el razonamiento y la autocorrección. 
 
-En el caso de ELSA Speak nos encontramos frente a una app que es capaz de distinguir con bastante precisión los sonidos que emitimos al hablar y asociarlos con los diferentes sonidos y fonemas de la lengua inglesa que tiene guardados en su base de datos y consigue evaluar los sonidos como buenos, regulares o malos. Además, es capaz de interpretar los resultados que vamos obteniendo en los ejercicios y tests y de esta forma reorganizar las lecciones para poder hacer hincapié en nuestros puntos más débiles. Este fenómeno de adaptación no lo encontramos en otras aplicaciones de aprendizaje de idiomas donde no queda más remedio que seguir el método definido por igual para todos los usuarios. En ese sentido, ELSA será lo más parecido a tener un profesor particular de carne y hueso.
+En el caso de ELSA Speak nos encontramos frente a una app que es capaz de **distinguir con bastante precisión los sonidos que emitimos** al hablar y asociarlos con los diferentes sonidos y fonemas de la lengua inglesa que tiene guardados en su base de datos y consigue evaluar los sonidos como buenos, regulares o malos. Además, es capaz de **interpretar los resultados que vamos obteniendo en los ejercicios y tests** y de esta forma reorganizar las lecciones para poder hacer hincapié en nuestros puntos más débiles. Este fenómeno de adaptación no lo encontramos en otras aplicaciones de aprendizaje de idiomas donde no queda más remedio que seguir el método definido por igual para todos los usuarios. En ese sentido, ELSA será lo más parecido a tener un profesor particular de carne y hueso.
 
 
 ## Referencias y Bibliografía
