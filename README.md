@@ -69,6 +69,17 @@ Haz click en el siguiente enlace para ver el trailer del videojuego de Wii Fit.
 
 https://www.youtube.com/watch?v=Awbg2YZW7EE
 
+En el año 2009 salió a la venta Wii Fit Plus, una versión enriquecida de Wii Fit que contaba entre sus mejoras con la incorporación de un contador de calorías quemadas durante los ejercicios y la creación de regímenes alimenticios, así como la inclusión de nuevos minijuegos y ejercicios para las cuatro categorías. 
+Posteriormente en 2013 se lanzó una nueva versión esta vez para la videoconsola sucesora de Wii, la Wii U. En esta ocasión podíamos combinar la ya existente Wii Balance Board con el nuevo mando con pantalla integrada de Wii U, el GamePad. Esto nos brindaba la posibilidad de seguir entrenando sin necesidad de utilizar la televisión, siempre y cuando estuviéramos en el rango de frecuencia de la consola, ya que si nos íbamos a demasiada distancia, mando y consola se desvinculaban. 
+Además de una nueva interfaz más armoniosa y atractiva y nuevos minijuegos y ejercicios, en Wii U apareció por primera vez el Wii Fit Meter, un podómetro de bolsillo con el qué poder seguir registrando calorías quemadas en nuestras tareas diarias o en otros entrenamientos ajenos al videojuego. Después, solamente tendríamos que pasar los datos a nuestra Wii U mediante infrarrojos (parte delantera del Wii U GamePad) y nuestras calorías se agregarían a las del videojuego. 
+
+Puedes ver un avance del videojuego Wii Fit U en el siguiente enlace.
+
+https://www.youtube.com/watch?v=j5hhMiLEIEs&t=104s
+
+Asimismo, los pasos contados por el podómetro se podían sumar en un minijuego de rutas por el mundo y desbloquear vestimentas para nuestro avatar en función de la ruta finalizada.
+
+
 Wii Fit, y sus derivados Wii Fit Plus y Wii Fit U, son un buen ejemplo de hibridación de medios debido tanto a su rompedora forma de llevar a acabo un entrenamiento deportivo como a su novedosa forma de interactuar con los videojuegos.
 
 ___
