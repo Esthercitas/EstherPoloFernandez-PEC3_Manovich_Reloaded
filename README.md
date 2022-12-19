@@ -109,6 +109,7 @@ En el caso de ELSA Speak nos encontramos frente a una app que es capaz de distin
 * *Reseña de ELSA Speak [en línea] [consulta: 18 de diciembre de 2022]. Disponible en: https://www.alllanguageresources.com/resena-de-elsa-speak/
 * WII FIT (WII) TRAILER. *Nintend Life*. Canal de YouTube. https://www.youtube.com/watch?v=Awbg2YZW7EE
 * COMPLETE GUIDE: HOW TO USE ELSA SPEAK. *ELSA Speka*. Canal de YouTube. https://www.youtube.com/watch?v=5SDqVjYncXY
+* Imagen Wii Balance Board https://commons.wikimedia.org/wiki/File:Wii_Balance_Board_transparent.png
 
 
 
