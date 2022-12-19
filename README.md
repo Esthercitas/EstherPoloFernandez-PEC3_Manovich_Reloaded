@@ -40,14 +40,18 @@ Y ahora sí, una vez puesta a la hibridación en su contexto podemos pasar a cen
 
 ### Caso 1: Wii Fit
 
-Corría el año 2007 cuando la empresa japonesa Nintendo, lanzó al mercado japonés (en el resto del mundo se puso a la venta a lo largo de 2008) el videojuego Wii Fit para la videoconsola Wii.
-
+Corría el año 2007 cuando la empresa japonesa Nintendo, lanzó al mercado japonés (en el resto del mundo se puso a la venta a lo largo de 2008) el videojuego Wii Fit para la videoconsola Wii. Un juego revolucionario en su época que nos invitaba de una manera llamativa y divertida, a abandonar la comodidad de nuestro sofá y poner en movimiento nuestro cuerpo. Y es que con Wii Fit dejamos a un lado la forma clásica de jugar con los videojuegos en la que el usuario mediante un mando de control, dirige los movimientos de un personaje.
 
 ![Logotipo videojuego Wii Fit](WiiFitLogotipo.jpg)
 >Logotipo videojuego Wii Fit.
+
 Haz click en el siguiente enlace para ver el trailer del videojuego de Wii Fit.
 
+
 https://www.youtube.com/watch?v=Awbg2YZW7EE
+
+Wii Fit, y sus derivados Wii Fit Plus y Wii Fit U, son un buen ejemplo de hibridación de medios debido tanto a su rompedora forma de llevar a acabo un entrenamiento deportivo como a su novedosa forma de interactuar con los videojuegos.
+
 ___
 ### Caso 2: ELSA Speak
 
