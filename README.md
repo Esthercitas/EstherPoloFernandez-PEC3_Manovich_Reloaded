@@ -24,7 +24,7 @@ En el caso de una **hibridación**, lo que obtenemos como resultado es un produc
 
 Es común confundir los términos hibridación y **multimedia**, pero con un sencillo ejemplo es probable que veamos todo mucho más claro. Pensemos en la prensa tradicional y en cómo esos periódicos estaban compuestos por textos e imágenes sobre un soporte de papel. Si ahora nos llevamos ese mismo periódico a una versión web, vemos que está formado también por textos e imágenes, pero se le han añadido vídeos y sonidos de forma que la experiencia es mucho más enriquecedora. 
 
->“En la multimedia diferentes tipos de medios ( texto, audio, vídeo, … ) conviven de forma contigua, y se sitúan -normalmente- en un plano bidimensional” Adell 2004.
+>“En la multimedia diferentes tipos de medios (texto, audio, vídeo, …) conviven de forma contigua, y se sitúan -normalmente- en un plano bidimensional” Adell 2004.
 
 Siguiendo con el ejemplo del periódico digital, como resultado seguimos obteniendo las mismas noticias solo que en un formato multimedia en el que cada medio continúa teniendo sus propios controles. En palabras de Manovich, “La palabra «multimedia» supo reflejar el fenómeno de la confluencia de contenidos procedentes de distintos medios, pero no así sus lenguajes.” 
 
