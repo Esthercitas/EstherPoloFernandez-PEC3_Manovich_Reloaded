@@ -59,7 +59,7 @@ Sin embargo, si por algo destacó el videojuego Wii Fit fue porque aunaba la par
 
 Los ejercicios o minijuegos se hallaban clasificados en cuatro categorías: aeróbic, equilibrio, yoga y tonificación. En nuestra mano estaba seguir uno de los programas de entrenamiento predeterminados, configurar el nuestro propio o jugar/entrenar aleatoriamente.
 
-Otro de los ingredientes de su éxito y que fueron los causantes de que mucha gente que no había sido anteriormente consumidores de videoconsolas y videojuegos se hicieran con una Wii y con el Wii Fit, es que permite entrenar en casa con familia y amigos acercando generaciones. 
+Otro de los ingredientes de su éxito y que fueron los causantes de que mucha gente que no había sido anteriormente consumidores de videoconsolas y videojuegos se hicieran con una Wii y con el juego Wii Fit, es que permite entrenar en casa con familia y amigos acercando generaciones. 
 
 
 
