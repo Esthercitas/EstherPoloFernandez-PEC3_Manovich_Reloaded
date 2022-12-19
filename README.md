@@ -126,6 +126,8 @@ En el caso de ELSA Speak nos encontramos frente a una app que es capaz de distin
 * WII FIT (WII) TRAILER. *Nintend Life*. Canal de YouTube. https://www.youtube.com/watch?v=Awbg2YZW7EE
 * COMPLETE GUIDE: HOW TO USE ELSA SPEAK. *ELSA Speka*. Canal de YouTube. https://www.youtube.com/watch?v=5SDqVjYncXY
 * Imagen Wii Balance Board https://commons.wikimedia.org/wiki/File:Wii_Balance_Board_transparent.png
+* WII FIT U. *MeriStation*. Canal de YouTube. https://www.youtube.com/watch?v=j5hhMiLEIEs&t=104s
+* Imagen menús Wii Fit https://www.guiasnintendo.com/
 
 
 
