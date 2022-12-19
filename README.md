@@ -47,6 +47,9 @@ Corría el año 2007 cuando la empresa japonesa Nintendo, lanzaba al mercado jap
 
 Con Wii Fit dejamos a un lado la forma clásica de jugar con los videojuegos en la que el usuario mediante un mando de control, con botones y joysticks, dirige los movimientos de un personaje. El videojuego se vendió conjuntamente con la Wii Balance Board, un periférico semejante a una báscula o mejor dicho a una tabla para steps que sería un requisito imprescindible para la mayoría de minijuegos que se incluían. 
 
+![Wii Balance Board](wiibalanceboard.jpg)
+>Wii Balance Board.
+
 En algunos casos, era necesario combinar la Wii Balance Board con el Wii Remote (el mando de control de Wii que funcionaba sin cables y por sensor de movimiento gracias a un sensor que se colocaba sobre nuestra televisión) como en el caso del minijuego de guerra de bolas de nieve. En otros casos, solamente necesitábamos la Wii Balance Board para usarla a modo de tabla de snowboard y deslizarnos por la nieve digital, y en otros casos, como en el minijuego de running, con el Wii Remote en el bolsillo nos era suficiente.
 
 Sin embargo, si por algo destacó el videojuego Wii Fit fue porque aunaba la parte lúdica de un videojuego con la salud ya que Wii Fit contaba con un entrenador (o entrenadora en función de tus preferencias) para ayudarnos a ponernos en forma. Al comenzar la partida por primera vez, la consola nos hará una serie de preguntas tales como la edad o la estatura, antes de realizarnos un test con el cuál determinará por una parte la edad que considera que tiene nuestro cuerpo, en función de nuestras habilidades y reflejos, y por otra nos dirá nuestro peso e índice de masa corporal. Con esta información obtenida, ya estamos preparados para empezar a nuestra sesión de deporte diaria.
