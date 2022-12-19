@@ -53,6 +53,10 @@ Con Wii Fit dejamos a un lado la forma clásica de jugar con los videojuegos en 
 En algunos casos, era necesario combinar la Wii Balance Board con el Wii Remote (el mando de control de Wii que funcionaba sin cables y por sensor de movimiento gracias a un sensor que se colocaba sobre nuestra televisión) como en el caso del minijuego de guerra de bolas de nieve. En otros casos, solamente necesitábamos la Wii Balance Board para usarla a modo de tabla de snowboard y deslizarnos por la nieve digital, y en otros casos, como en el minijuego de running, con el Wii Remote en el bolsillo nos era suficiente.
 
 Sin embargo, si por algo destacó el videojuego Wii Fit fue porque aunaba la parte lúdica de un videojuego con la salud ya que Wii Fit contaba con un entrenador (o entrenadora en función de tus preferencias) para ayudarnos a ponernos en forma. Al comenzar la partida por primera vez, la consola nos hará una serie de preguntas tales como la edad o la estatura, antes de realizarnos un test con el cuál determinará por una parte la edad que considera que tiene nuestro cuerpo, en función de nuestras habilidades y reflejos, y por otra nos dirá nuestro peso e índice de masa corporal. Con esta información obtenida, ya estamos preparados para empezar a nuestra sesión de deporte diaria.
+
+![Menús Wii Fit](pantallas_wii_fit.jpg)
+>Menús Wii Fit.
+
 Los ejercicios o minijuegos se hallaban clasificados en cuatro categorías: aeróbic, equilibrio, yoga y tonificación. En nuestra mano estaba seguir uno de los programas de entrenamiento predeterminados, configurar el nuestro propio o jugar/entrenar aleatoriamente.
 
 Otro de los ingredientes de su éxito y que fueron los causantes de que mucha gente que no había sido anteriormente consumidores de videoconsolas y videojuegos se hicieran con una Wii y con el Wii Fit, es que permite entrenar en casa con familia y amigos acercando generaciones. 
