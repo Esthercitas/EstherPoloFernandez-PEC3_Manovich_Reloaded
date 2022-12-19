@@ -83,6 +83,8 @@ Asimismo, los pasos contados por el podómetro se podían sumar en un minijuego 
 
 Wii Fit, y sus derivados Wii Fit Plus y Wii Fit U, son un buen ejemplo de hibridación de medios debido tanto a su rompedora forma de llevar a acabo un entrenamiento deportivo como a su novedosa forma de interactuar con los videojuegos.
 
+Wii Fit, y sus derivados Wii Fit Plus y Wii Fit U, son un buen ejemplo de hibridación de medios debido tanto a su rompedora forma de llevar a cabo un entrenamiento deportivo como a su novedosa forma de interactuar con los videojuegos. Como he ido mencionando a lo largo de la exposición sobre el videojuego, son muy variadas las formas en las que podemos interactuar con la videoconsola, con el mando tradicional apuntando a la pantalla para seleccionar un menú por ejemplo, usando el peso de nuestro cuerpo sobre la Wii Balance Board para conseguir que una bola se cuele por un agujero, etc. Además, ya hemos visto que en el caso de Wii Fit U ni siquiera es necesario estar usando la consola para ir aumentado nuestro progreso siempre y cuando llevemos encima nuestro Wii Fit Meter.
+
 ___
 ### Caso 2: ELSA Speak
 
